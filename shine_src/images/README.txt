@@ -1,0 +1,1 @@
+Add the clinic's real hero/clinic photo as hero.jpg and doctor's professional photo as doctor.jpg here. Real photos are recommended for the final client version.
